@@ -117,7 +117,7 @@ h2 {
 
 #seccion {
   background-image: linear-gradient(to right, rgb(67, 190, 221), white);
-  height: 375px;
+  height: auto;
   border: 1px solid black;
   margin-left: 150px;
   margin-top: 10px;
@@ -129,7 +129,7 @@ h2 {
 #columna {
   margin: 10px;
   padding: 20px;
-  height: 375px;
+  height: auto;
   background: #bcc0c2;
   border: 1px solid black;
   grid-area: d;
